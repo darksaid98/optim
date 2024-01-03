@@ -1,0 +1,16 @@
+name = "Darks Fast Pack"
+author = "darksaid98"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "effd36d1ac654a544c8ff113f277a5c5e74934e34083ca61172666e78d6b9524"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.2"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1", "1.20.2"]
