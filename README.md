@@ -32,8 +32,25 @@ Optim is a Fabric modpack that aims to provide maximum performance with some com
 
 ---
 
-## Contributing 🤝
+## 🤝 Contributing
 
 Contributions, bug reports, and feature requests are welcome!<br />Feel free to check out our  [issues tracking page](https://github.com/darksaid98/optim/issues).
+
+---
+
+## ❤️ Acknowledgments
+
+Optim was created because I grew tired of manually updating my personal selection of mods after every Minecraft update.
+
+The following projects inspired, influenced and or helped me greatly when creating Optim:
+- [**mc-modpack-kit**](https://github.com/jh-devv/mc-modpack-kit) - *Used to scaffold this GitHub repository.*
+- [**Packwiz**](https://packwiz.infra.link/) - *Exceptional software making modpack maintenance and creation easy.*
+- [**Kami Chan Optimized**](https://modrinth.com/modpack/kami-chan-optimized) - *Inspired a few additions like fast-up-ping and Server Pinger Fixer.*
+
+---
+
+## 📝 License
+
+This project is licensed under the [Apache-2.0](https://github.com/darksaid98/optim/blob/main/LICENSE) license.
 
 ---
