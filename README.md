@@ -1,7 +1,7 @@
  
 <img src="https://cdn.discordapp.com/attachments/1010935051384529016/1192457867706515467/optim_title.jpg">
 <p align="center">
-    <img src="https://img.shields.io/github/license/darksaid98/darks-fast-pack?color=blue&style=flat-square"  alt="license"/>
+    <img src="https://img.shields.io/github/license/darksaid98/optim?color=blue&style=flat-square"  alt="license"/>
     <a href="https://modrinth.com/modpack/optim"><img src="https://img.shields.io/modrinth/v/95XSc2hr?color=green&style=flat-square" alt="release"></a>
     <a href="https://modrinth.com/modpack/optim/versions"><img src="https://img.shields.io/modrinth/dt/95XSc2hr?style=flat-square" alt="downloads"/></a>
 </p>
@@ -34,6 +34,6 @@ Optim is a Fabric modpack that aims to provide maximum performance with some com
 
 ## Contributing 🤝
 
-Contributions, bug reports, and feature requests are welcome!<br />Feel free to check out our  [issues tracking page](https://github.com/darksaid98/darks-fast-pack/issues).
+Contributions, bug reports, and feature requests are welcome!<br />Feel free to check out our  [issues tracking page](https://github.com/darksaid98/optim/issues).
 
 ---
