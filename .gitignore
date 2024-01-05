@@ -1,3 +1,6 @@
+# MacOS
+.DS_Store
+
 # Exclude exported CurseForge zip files
 *.zip
 

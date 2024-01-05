@@ -2,4 +2,14 @@
 # See https://git-scm.com/docs/gitignore
 
 # Exclude README
-/README.md
+*.md
+/LICENSE
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude disabled jars
+*.disabled
