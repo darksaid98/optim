@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/darksaid98/optim/compare/main-v1.0.1...main-v1.1.0) (2024-01-05)
+
+
+### ★ Features
+
+* **main:** add fast-ip-ping ([8d68bf0](https://github.com/darksaid98/optim/commit/8d68bf038948f998f775e479d551d7db1ea7534d))
+
 ## [1.0.1](https://github.com/darksaid98/optim/compare/main-v1.0.0...main-v1.0.1) (2024-01-05)
 
 
