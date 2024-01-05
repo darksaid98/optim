@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/darksaid98/darks-fast-pack/compare/main-v1.0.0...main-v1.0.1) (2024-01-05)
+
+
+### ⚘ Modpack Updates
+
+* **main:** update controlling & searchables ([effa601](https://github.com/darksaid98/darks-fast-pack/commit/effa6019536fa6cc949f4ef4f7f12267e2c0a1f1))
+* **main:** update to 1.20.4 ([a30e285](https://github.com/darksaid98/darks-fast-pack/commit/a30e28574e1e3f237a80a08d182381bb975614b5))
+
 ## 1.0.0 (2024-01-05)
 
 
