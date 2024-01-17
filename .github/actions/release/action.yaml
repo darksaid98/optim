@@ -105,7 +105,7 @@ runs:
           game-versions: ${{ env.game-version }}
           changelog-file: CHANGELOG.release.*
           files: |
-            "*.mrpack"
+            *.mrpack
           version: ${{ steps.tag.outputs.tag }}
           version-type: ${{ steps.release-type.outputs.release-type }}
 
@@ -126,7 +126,7 @@ runs:
           game-versions: ${{ env.game-version }}
           changelog-file: CHANGELOG.release.*
           files: |
-            "*.zip"
+            *.zip
           version: ${{ steps.tag.outputs.tag }}
           version-type: ${{ steps.release-type.outputs.release-type }}
 
