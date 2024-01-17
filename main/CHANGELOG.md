@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/darksaid98/optim/compare/main-v1.1.0...main-v1.2.0) (2024-01-17)
+
+
+### ★ Features
+
+* **main:** add yosbr ([ff3ea08](https://github.com/darksaid98/optim/commit/ff3ea083a9fc2f5f4fbf07396e29c971786fc701))
+* **main:** update to 1.20.4 ([ec09b33](https://github.com/darksaid98/optim/commit/ec09b337b2576fdd965e082d1645300f4748d6ef))
+
+
+### ♻ Bug Fixes
+
+* **main:** disable incompatible 1.20.4 mods ([8d31ee5](https://github.com/darksaid98/optim/commit/8d31ee5f5e16a86560c9ea6a5cc77479020bff0d))
+
 ## [1.1.0](https://github.com/darksaid98/optim/compare/main-v1.0.1...main-v1.1.0) (2024-01-05)
 
 
