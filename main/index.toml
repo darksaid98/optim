@@ -174,11 +174,6 @@ hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
@@ -244,11 +239,6 @@ hash = "c1a503279c840760e75e9c70d1c05944b99222e4028ec954dade8ef9da4d9e51"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "61b53971d35fed86d672a21b118dc4c78a0d7990d6ecc22724e6399a102dcd2f"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "25b087e635ab907f000d598b9a6279cc11a2c740063bf10be3adb175104dc23d"
 metafile = true
@@ -301,11 +291,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d1e35e3c6a07ec2760c5f3a68974bc7952310abb6499898d2c3ad257598f616a"
 metafile = true
 
 [[files]]
