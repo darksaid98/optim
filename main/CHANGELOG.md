@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/darksaid98/optim/compare/main-v1.2.1...main-v1.2.2) (2024-01-17)
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.2.2 ([600fb07](https://github.com/darksaid98/optim/commit/600fb071ed168432502855fb55fe35e484e1ee81))
+
 ## [1.2.1](https://github.com/darksaid98/optim/compare/main-v1.2.0...main-v1.2.1) (2024-01-17)
 
 
