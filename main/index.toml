@@ -1,108 +1,112 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/config/betterf3.json"
+file = "config/yosbr/config/ViaFabric/viafabric.yml"
+hash = "f7b380009c6fbffb3836e52431c1b3b6a5fede5307c47ce263657df7aaeaf3ab"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
 hash = "ef5ad04ddf4f81608b4efe290566555a70124d1bda3fc0e230854fbde1dcebd8"
 
 [[files]]
-file = "config/config/betterthirdperson.json5"
+file = "config/yosbr/config/betterthirdperson.json5"
 hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
 
 [[files]]
-file = "config/config/borderlessmining.json"
+file = "config/yosbr/config/borderlessmining.json"
 hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
 
 [[files]]
-file = "config/config/capes.json5"
+file = "config/yosbr/config/capes.json5"
 hash = "fa09c3aa6de2861f2421fecdb7eba8d91983dfb04381b5e82954d64708c70c59"
 
 [[files]]
-file = "config/config/citresewn.json"
+file = "config/yosbr/config/citresewn.json"
 hash = "98f188d8ce72d576738c7139f236d2347c8a987c1bffc48a5e2c53d134935ae1"
 
 [[files]]
-file = "config/config/continuity.json"
+file = "config/yosbr/config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
-file = "config/config/cull-less-leaves.json"
+file = "config/yosbr/config/cull-less-leaves.json"
 hash = "b9f0f1775875c900b6b265212b8ea3d194009e75533dfab2a37fc3cea7f4e829"
 
 [[files]]
-file = "config/config/ding.conf"
+file = "config/yosbr/config/ding.conf"
 hash = "8e0a67738e72397427a7209a4ead43d3bdb2b50702c645c87428f1e1a134adb2"
 
 [[files]]
-file = "config/config/enhanced_bes.properties"
+file = "config/yosbr/config/enhanced_bes.properties"
 hash = "3548fb47090b17861a2791662453a021caeecc2e8df9537996a7e2e1b2ec837b"
 
 [[files]]
-file = "config/config/entity_model_features.json"
+file = "config/yosbr/config/entity_model_features.json"
 hash = "21a697a6d6d4b112a23146b6faacb957d47104a7d76ee4f48522748fe91bc425"
 
 [[files]]
-file = "config/config/entity_texture_features.json"
+file = "config/yosbr/config/entity_texture_features.json"
 hash = "d5d89a471ce957cc6696fb5c26d7708a07b5913a06a7b406f7697d18f5c80093"
 
 [[files]]
-file = "config/config/entityculling.json"
+file = "config/yosbr/config/entityculling.json"
 hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 
 [[files]]
-file = "config/config/exordium.json"
+file = "config/yosbr/config/exordium.json"
 hash = "0233c0be3e202383511da555a4520394fc02263b507ed93653d08c7454edfebf"
 
 [[files]]
-file = "config/config/fabrishot.properties"
+file = "config/yosbr/config/fabrishot.properties"
 hash = "0477547f5e4358240859f2d05537373beb6e51840af0f4e4bcaed0788a42577e"
 
 [[files]]
-file = "config/config/lambdynlights.toml"
+file = "config/yosbr/config/lambdynlights.toml"
 hash = "b7434de92025cb458555c9e0afe9aab0f2439b0848e6ea492e4b247f38411af4"
 
 [[files]]
-file = "config/config/lightoverlay.properties"
+file = "config/yosbr/config/lightoverlay.properties"
 hash = "f26672542348ed68d5ffdfed8671bbe421a8520dc11ee520a375837fc5738d8a"
 
 [[files]]
-file = "config/config/puzzle.json"
+file = "config/yosbr/config/puzzle.json"
 hash = "ea3178db89858a8e686f53117dddb73f39e46ec4b8a1446834d9d85e55ba46d2"
 
 [[files]]
-file = "config/config/replaymod.json"
+file = "config/yosbr/config/replaymod.json"
 hash = "ba023dd02e9966b3a0fa6ab9b09ff547933c848ae67042995134c2b224fd8cbc"
 
 [[files]]
-file = "config/config/roughlyenoughitems/config.json5"
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "3a5e9c75842806fbe1d0a0ad7c2da8aeb48cadd20dceff83880ddda321d3382e"
 
 [[files]]
-file = "config/config/shouldersurfing.toml"
+file = "config/yosbr/config/shouldersurfing.toml"
 hash = "f012d683948fc223e4b69791efbb50ac42fca98d51059f29a5f0b8bbcccecf35"
 
 [[files]]
-file = "config/config/skinlayers.json"
+file = "config/yosbr/config/skinlayers.json"
 hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
 
 [[files]]
-file = "config/config/sodium-extra-options.json"
-hash = "6c89d4b46823be3ce014174ae7efe1f1220edae9c7ce5ea11cfd731dba6ef6be"
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "8570d2af6e7c083f69f02810afc6abc675ea3e12efe759e31444be7ad6a874ac"
 
 [[files]]
-file = "config/config/sodium-options.json"
-hash = "515a81423ac49422eccc28c17295ca8c6c3b7df3a8b4143d8259d25d864e2a5d"
+file = "config/yosbr/config/sodium-options.json"
+hash = "44b75409fe149f0e3d707e555b745dddfa408cef00aca4897af2701c12d05c5e"
 
 [[files]]
-file = "config/config/waveycapes.json"
+file = "config/yosbr/config/waveycapes.json"
 hash = "eabdcd97e6792f21e0ebb79b58c452a690e57ddf4b65922f141b78989cd23e3e"
 
 [[files]]
-file = "config/config/zoomify.json"
+file = "config/yosbr/config/zoomify.json"
 hash = "6e9704df2939fd300377d13073516ba2939092f573ea54651809580c5fd89cea"
 
 [[files]]
-file = "config/options.txt"
-hash = "80e27a8d0ce9bc53b78288474f3458b1df7af6bbecb54f96535de16e01aa0182"
+file = "config/yosbr/options.txt"
+hash = "4d40745d09f9d17604355de67ef7b824cb5f8ffa781fd1025c04163206a1d09d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -427,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "2498a978634a0add18ebd0a47b4e8d23dbe8ac19d926fabf436d15ad94bd9a44"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
