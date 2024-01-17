@@ -53,4 +53,4 @@ The following projects inspired, influenced and or helped me greatly when creati
 
 This project is licensed under the [Apache-2.0](https://github.com/darksaid98/optim/blob/main/LICENSE) license.
 
---- 
+---
