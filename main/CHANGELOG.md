@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/darksaid98/optim/compare/main-v1.2.3...main-v1.3.0) (2024-01-23)
+
+
+### ★ Features
+
+* **main:** update mods to 1.20.4 ([b522175](https://github.com/darksaid98/optim/commit/b52217582caf9ff3108d9694bf2c479c86cd4d7b))
+
 ## [1.2.3](https://github.com/darksaid98/optim/compare/main-v1.2.2...main-v1.2.3) (2024-01-17)
 
 
