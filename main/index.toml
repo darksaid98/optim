@@ -235,12 +235,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c1a503279c840760e75e9c70d1c05944b99222e4028ec954dade8ef9da4d9e51"
+hash = "03f7b3ba98964e062668d8c105f8a40f7e6c649aab938e8da2d6219ee607c2ca"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "daf2a7408eeeaf8439527b153d24f4ee60865d8e3e7b2e4e05d4d56ce0b1797f"
+hash = "e040f3b3925a1d08e1b0b787a10816303d79cec5902c8118baec4d6fea036b74"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "eb9ed14436b79290cec3dfe2a87c0b32d0f369859ceb98834a24ee580c61da88"
+hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
 metafile = true
 
 [[files]]
@@ -390,12 +390,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ebe386eef0fb117e3bc3252786fbca4b3f05e45eb2cc8e2f56549aad396d244f"
+hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
+hash = "83340bcd43d20d0aa3ef32df915269997ac39f098e3258d0de68be62793c1308"
 metafile = true
 
 [[files]]
