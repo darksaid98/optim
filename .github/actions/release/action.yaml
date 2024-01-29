@@ -97,15 +97,14 @@ runs:
       - name: Publish to Modrinth
         id: modrinth
         if: inputs.upload-modrinth == 'true'
-        uses: Kir-Antipov/mc-publish@v3.3
+        uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: ${{ inputs.MODRINTH_ID }}
           modrinth-token: ${{ inputs.MODRINTH_TOKEN }}
           loaders: ${{ env.loader }}
           game-versions: ${{ env.game-version }}
           changelog-file: CHANGELOG.release.*
-          files: |
-            *.mrpack
+          files: "*.mrpack"
           version: ${{ steps.tag.outputs.tag }}
           version-type: ${{ steps.release-type.outputs.release-type }}
 
@@ -118,15 +117,14 @@ runs:
       - name: Publish to CurseForge
         id: curseforge
         if: inputs.upload-curse == 'true'
-        uses: Kir-Antipov/mc-publish@v3.3
+        uses: Kir-Antipov/mc-publish@v3.2
         with:
           curseforge-id: ${{ inputs.CURSEFORGE_ID }}
           curseforge-token: ${{ inputs.CURSEFORGE_TOKEN }}
           loaders: ${{ env.loader }}
           game-versions: ${{ env.game-version }}
           changelog-file: CHANGELOG.release.*
-          files: |
-            *.zip
+          files: "*.zip"
           version: ${{ steps.tag.outputs.tag }}
           version-type: ${{ steps.release-type.outputs.release-type }}
 
