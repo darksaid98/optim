@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/draggable-lists.pw.toml"
-hash = "48c132fd8b036282dab908ed71e9b4f5a7a607a9856f580451dc478e687de66a"
+hash = "de2e6ae5b579729bd80c1a4dd9a5a9b920a2986ae3ba85f9e94dd6ac645b6d11"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
+hash = "e97fb0a6414879b4ac07651975deb6fef55c9619f9f5761249b94136908a1131"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/serverpingerfixer.pw.toml"
-hash = "67f574649175ed1bdbe138efbf15c2e49da6b328d7402ddeeef75b416b9c4523"
+hash = "1e392b828a8beb7670a4c2eb46d413acfa8552f2889b7d10e3a4ca715310677f"
 metafile = true
 
 [[files]]
