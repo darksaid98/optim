@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/darksaid98/optim/compare/main-v1.4.0...main-v1.5.0) (2024-01-30)
+
+
+### ★ Features
+
+* **main:** update mods ([dd9e068](https://github.com/darksaid98/optim/commit/dd9e068f1564b53be0de06f7a328505da6c81caf))
+
 ## [1.4.0](https://github.com/darksaid98/optim/compare/main-v1.3.0...main-v1.4.0) (2024-01-29)
 
 
