@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/draggable-lists.pw.toml"
-hash = "de2e6ae5b579729bd80c1a4dd9a5a9b920a2986ae3ba85f9e94dd6ac645b6d11"
+hash = "aa58e80b2e7736180e29833193fc0370fb50912fd21a08d476a1898c1f7672f6"
 metafile = true
 
 [[files]]
