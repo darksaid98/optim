@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/darksaid98/optim/compare/main-v1.6.0...main-v1.7.0) (2024-02-06)
+
+
+### ★ Features
+
+* **main:** update fabric loader ([fb7993f](https://github.com/darksaid98/optim/commit/fb7993fd9b9895c90bd9cd6c8b06eafaf0fe2263))
+
 ## [1.6.0](https://github.com/darksaid98/optim/compare/main-v1.5.0...main-v1.6.0) (2024-02-06)
 
 
