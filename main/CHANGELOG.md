@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.6.0](https://github.com/darksaid98/optim/compare/main-v1.5.0...main-v1.6.0) (2024-02-06)
+
+
+### ★ Features
+
+* **main:** add back missing mods ([8ebb467](https://github.com/darksaid98/optim/commit/8ebb46757a5c312f3fa9b598acc2be59cede7544))
+* **main:** add new mods ([c782cee](https://github.com/darksaid98/optim/commit/c782cee5414131c234db7d42713e33092a1f7055))
+* **main:** update mods ([eb52e93](https://github.com/darksaid98/optim/commit/eb52e93de9ab4aea16dc350ffd4cef5f6bc257a5))
+* **main:** update mods ([0787179](https://github.com/darksaid98/optim/commit/07871795ca50f5edf495b254ae6c222f7a39d086))
+* **main:** update mods ([0a7ff1b](https://github.com/darksaid98/optim/commit/0a7ff1bfe252275094ffb4e324bdde51079e4a7a))
+
 ## [1.5.0](https://github.com/darksaid98/optim/compare/main-v1.4.0...main-v1.5.0) (2024-01-30)
 
 
