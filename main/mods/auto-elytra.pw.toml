@@ -1,0 +1,13 @@
+name = "Auto Elytra"
+filename = "auto-elytra-2.1.1-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Azf2GPw/versions/CZW5ECRR/auto-elytra-2.1.1-1.20.4.jar"
+hash-format = "sha1"
+hash = "d3489f4a66640966c17354268ef890765cc2ea41"
+
+[update]
+[update.modrinth]
+mod-id = "3Azf2GPw"
+version = "CZW5ECRR"

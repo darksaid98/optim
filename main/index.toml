@@ -114,6 +114,11 @@ hash = "4209b7c1f768202b2f70ec5ab499b26ae9d4e73cf1e855099fe5fb23db0512e5"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "376e87e40002a718c38bd8f73b542d58434a8a90ac3dbc2c817fa0daf2caf53f"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
@@ -131,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
+metafile = true
+
+[[files]]
+file = "mods/auto-elytra.pw.toml"
+hash = "05f3ed2c6c1598d56e521762a56b4fd01d707bf7fdba25070de5123fe35688a0"
 metafile = true
 
 [[files]]
@@ -184,6 +194,11 @@ hash = "debab1b6732fce31b240d311d86b441329ba46aae132c9f236af1fe90af00d94"
 metafile = true
 
 [[files]]
+file = "mods/continue.pw.toml"
+hash = "129f7b6a59e75f5a0356c19c6a326d0aa93beed8e8caa142f79971ae9f8e71c0"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
@@ -191,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "a659fc922dfbcbb29bad2bbc11dd34cb1686c3c9cde9a93fe484db0f4e4c3062"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "0b3ff7374dbc2b371ef6d535cddd4871171b11a07a59a57c5cf1175ba9acb941"
 metafile = true
 
 [[files]]
@@ -261,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "b91224d8b6110cbeca20c7905f2ae6032e8ccd992733829fbc6a79d2da957839"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
 metafile = true
 
 [[files]]
@@ -399,6 +424,11 @@ hash = "30bb69d9074db0e68235ad2866d94bfffa2f9f430d98b0d4fc11c2300b7f4e38"
 metafile = true
 
 [[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "81fef8a079857ad4c4a7fed28e3141d636bb46282d6200302de84ca88e1ee1b3"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
@@ -406,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "aef87c42638b1bb5716adce38efff4d6e803dbd5802e35159ff718a0ff0dde1b"
 metafile = true
 
 [[files]]
