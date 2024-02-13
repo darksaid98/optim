@@ -1,5 +1,37 @@
 # Changelog
 
+## [1.2.3](https://github.com/darksaid98/optim/compare/v1.0.0...v1.2.3) (2024-02-13)
+
+
+### Features
+
+* **main:** add back missing mods ([8ebb467](https://github.com/darksaid98/optim/commit/8ebb46757a5c312f3fa9b598acc2be59cede7544))
+* **main:** add fast-ip-ping ([8d68bf0](https://github.com/darksaid98/optim/commit/8d68bf038948f998f775e479d551d7db1ea7534d))
+* **main:** add new mods ([c782cee](https://github.com/darksaid98/optim/commit/c782cee5414131c234db7d42713e33092a1f7055))
+* **main:** add yosbr ([ff3ea08](https://github.com/darksaid98/optim/commit/ff3ea083a9fc2f5f4fbf07396e29c971786fc701))
+* **main:** update fabric loader ([fb7993f](https://github.com/darksaid98/optim/commit/fb7993fd9b9895c90bd9cd6c8b06eafaf0fe2263))
+* **main:** update mods ([ef45028](https://github.com/darksaid98/optim/commit/ef4502854585a98b37cb234a987abf31b7d63b41))
+* **main:** update mods ([eb52e93](https://github.com/darksaid98/optim/commit/eb52e93de9ab4aea16dc350ffd4cef5f6bc257a5))
+* **main:** update mods ([0787179](https://github.com/darksaid98/optim/commit/07871795ca50f5edf495b254ae6c222f7a39d086))
+* **main:** update mods ([0a7ff1b](https://github.com/darksaid98/optim/commit/0a7ff1bfe252275094ffb4e324bdde51079e4a7a))
+* **main:** update mods ([dd9e068](https://github.com/darksaid98/optim/commit/dd9e068f1564b53be0de06f7a328505da6c81caf))
+* **main:** update mods to 1.20.4 ([b522175](https://github.com/darksaid98/optim/commit/b52217582caf9ff3108d9694bf2c479c86cd4d7b))
+* **main:** update to 1.20.4 ([ec09b33](https://github.com/darksaid98/optim/commit/ec09b337b2576fdd965e082d1645300f4748d6ef))
+* update mods to latest versions ([d3cc67d](https://github.com/darksaid98/optim/commit/d3cc67d546bdd62f612588c2c93a811801540f07))
+
+
+### Bug Fixes
+
+* **main:** disable incompatible 1.20.4 mods ([8d31ee5](https://github.com/darksaid98/optim/commit/8d31ee5f5e16a86560c9ea6a5cc77479020bff0d))
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.0.0 ([3e0e3cc](https://github.com/darksaid98/optim/commit/3e0e3cc60f594956901c1be4fd6bd0cd88d748cf))
+* **main:** release 1.2.1 ([3723704](https://github.com/darksaid98/optim/commit/372370471fba70eeac3daca063aa3d9c69abcde2))
+* **main:** release 1.2.2 ([600fb07](https://github.com/darksaid98/optim/commit/600fb071ed168432502855fb55fe35e484e1ee81))
+* **main:** release 1.2.3 ([7a508c8](https://github.com/darksaid98/optim/commit/7a508c8fb2b2853e8df05aca81ca9e2c3d67415f))
+
 ## [1.8.0](https://github.com/darksaid98/optim/compare/main-v1.7.0...main-v1.8.0) (2024-02-13)
 
 
