@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/darksaid98/optim/compare/main-v1.7.0...main-v1.8.0) (2024-02-13)
+
+
+### ★ Features
+
+* **main:** update mods ([ef45028](https://github.com/darksaid98/optim/commit/ef4502854585a98b37cb234a987abf31b7d63b41))
+
 ## [1.7.0](https://github.com/darksaid98/optim/compare/main-v1.6.0...main-v1.7.0) (2024-02-06)
 
 
