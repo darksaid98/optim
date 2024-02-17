@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-elytra.pw.toml"
-hash = "05f3ed2c6c1598d56e521762a56b4fd01d707bf7fdba25070de5123fe35688a0"
+hash = "0705e2c0431e4e4b1d528ebeeb1c2df458c40abc6c1a73d5fd8bb0381a891b79"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "f5792a873f8346beb70094c3f79f9cf85d1d5e1e54ba1fc9332ccb981140b835"
+hash = "cc8b37c8916049b153b659b5a8e30efdbcf05992d9d35ccf99f06465e297fba2"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "db5cba4c28e407f873f44aa8c0f7e9d7ae4623765e1a05af7c629eceeafe3b44"
+hash = "1982972a5e483110b943900ea8aa727dba295a3917b254613b7bcda21078d39c"
 metafile = true
 
 [[files]]
