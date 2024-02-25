@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6ea1eddd8ff08bd26c296bf6c1e3906c0e2ec5ad0b334a0adca4f1f2a1bb03cc"
+hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "4d6f9588cee5896bbf0031bd48ce89221abf351534e74d64ed49a52d4f348dee"
+hash = "bb3526a64d7cf0487b36fdb55e9c9aa7fa68c4f03b3cd7f48f0ea04caca60cde"
 metafile = true
 
 [[files]]
