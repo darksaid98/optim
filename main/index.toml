@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "7619d61ec517320fc886636dfc1b3764dc956cff5d4653d64926d37204c2d20c"
+hash = "596c54b7fbc169171ee9394333b55c98c205ab3ee16d9f2fc11b93d539ef2ec1"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "44d709018f8b7890428dac2ad1e4ab7020c3fcf49b9a37bb738008c691084fce"
+hash = "ecd143b560c3a3206ac1005ed0664bae8902a08caea9eef6fcb06e4bb5844f46"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "9826c6020d1498b3c80d825f6ad272234c201b3ace8fb862e2aeebd7bb45fb74"
+hash = "4e80c51d4696f6a52f7940bfec2dd1728f59b85e8dbd72eee876d61eb946f568"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "30bb69d9074db0e68235ad2866d94bfffa2f9f430d98b0d4fc11c2300b7f4e38"
+hash = "a5315d0484d4c5a0c66f2575f08ead0bafb233869fc643f2151fad52fd7e0606"
 metafile = true
 
 [[files]]
