@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/darksaid98/optim/compare/v1.2.3...v1.3.0) (2024-03-09)
+
+
+### Features
+
+* add stendhal ([cb3f4b4](https://github.com/darksaid98/optim/commit/cb3f4b40934fa3a844aa761d22728f4b2ba66b8f))
+
 ## [1.2.3](https://github.com/darksaid98/optim/compare/v1.0.0...v1.2.3) (2024-02-13)
 
 
