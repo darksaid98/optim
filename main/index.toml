@@ -449,6 +449,11 @@ hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
 metafile = true
 
 [[files]]
+file = "mods/stendhal.pw.toml"
+hash = "4a3880b8d1c41108f688db0e4c4d7cdd8d5abd27e3bcb72c4b131b5c8b63c4b8"
+metafile = true
+
+[[files]]
 file = "mods/viafabric.pw.toml"
 hash = "225cd172b3f248f14c50af53e83b7eae30388b85558e57c193c156a62c292660"
 metafile = true
