@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "e643752073b369a0c8c1be08eebc6522dfdd5c3fb92f456475900203553bff51"
+hash = "fea2fea5dacf9e02d6e851aec634470d263b6e2ae3659b41c2ec5af65a5056f4"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d8141ee9ad948865c4da8594fe1e785ff6933d3f5b299234d002e2014559c0e4"
+hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
+hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
 metafile = true
 
 [[files]]
@@ -470,5 +470,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
+hash = "af2f18c6feb48fe4bfc019bdbc4899eb874324082207dc01171ffbf15547f5dd"
 metafile = true
