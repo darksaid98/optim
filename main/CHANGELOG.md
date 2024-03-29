@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/darksaid98/optim/compare/v1.3.0...v1.4.0) (2024-03-29)
+
+
+### Features
+
+* **main:** add litematica ([0ac0388](https://github.com/darksaid98/optim/commit/0ac038881e9b9c5aefffed96bd1895032fa6fb72))
+
 ## [1.3.0](https://github.com/darksaid98/optim/compare/v1.2.3...v1.3.0) (2024-03-09)
 
 
