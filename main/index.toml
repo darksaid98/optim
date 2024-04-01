@@ -304,6 +304,11 @@ hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "170ea395764e635c34c8d44aff02447a44aca3006c6591be355482041e437d6b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
