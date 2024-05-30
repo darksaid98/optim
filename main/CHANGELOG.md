@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/darksaid98/optim/compare/v1.5.0...v1.5.1) (2024-05-30)
+
+
+### Bug Fixes
+
+* **main:** update fabric loader ([a29c866](https://github.com/darksaid98/optim/commit/a29c866de759b139c040f88bfdc0c44bbd9e8472))
+
 ## [1.5.0](https://github.com/darksaid98/optim/compare/v1.4.1...v1.5.0) (2024-05-30)
 
 
