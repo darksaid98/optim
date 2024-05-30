@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/darksaid98/optim/compare/v1.4.1...v1.5.0) (2024-05-30)
+
+
+### Features
+
+* **main:** add freecam ([66a36dd](https://github.com/darksaid98/optim/commit/66a36dd6f08b9216c23926f6f2dd5f91895cbc41))
+
 ## [1.4.1](https://github.com/darksaid98/optim/compare/v1.4.0...v1.4.1) (2024-03-29)
 
 
