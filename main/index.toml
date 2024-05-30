@@ -110,7 +110,7 @@ hash = "4d40745d09f9d17604355de67ef7b824cb5f8ffa781fd1025c04163206a1d09d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "de32db5dcde097bc8163221ebbe403b54c37e849490c6a572955bc88f640b011"
+hash = "eee95e3fdd26db4fec4eac0c81bac2c303e51688fc0574dd6f1dcf349402663b"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
+hash = "489c1b03fb49b1e1a62541465a305f56a6743078b3cec2d420e182c3b45f0015"
 metafile = true
 
 [[files]]
@@ -260,12 +260,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
+hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "aef87c42638b1bb5716adce38efff4d6e803dbd5802e35159ff718a0ff0dde1b"
+hash = "f3d2ed85760230d57e6212817d3c55adebf4affe5b35784ce026f8bf9e6b9f2c"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "fc89119ebc9c811ef3cd852556b5caaa27c03eb8fb0014567dd83cc44024ba98"
+hash = "26a403ecc15b5d7658dbff36ee6d2279ae814eb0a078f1a8a50167c596c06193"
 metafile = true
 
 [[files]]
@@ -485,5 +485,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "60d8f8307c2008c62cffe4c0be4fa1e8e9057fadac469594bd326f7e370ec0be"
+hash = "59645352080c5d972b2cb3a8cd560e9f12c5433950439e7d5ec5c574184aedfd"
 metafile = true
