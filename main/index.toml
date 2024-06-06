@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
+hash = "df487485f2e57e77657f65da68500e5b688812d7555f75e7db910d39827386c4"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
+hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
+hash = "258432c5c7b93cac4328d3bfd34d5ff8d4ce55212fd5adb0fc1b0efbc99d8c70"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
+hash = "962dddb3d561cfb056c53b5b308016b83755651c1c462cb6abc0889471ca36e9"
 metafile = true
 
 [[files]]
