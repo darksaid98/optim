@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
+hash = "9aa67a829335cb842d77bc0f4949d9a3ff5f449f66377c551b702a8c64dfb04c"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "7ca393d2d4bef93b891c29065f13a98575d255176111095d1bc29fed93978002"
+hash = "f3950fa7da8090c14b0623d0f65f5424cf36df1250c1bd283482d2ff715e830e"
 metafile = true
 
 [[files]]
