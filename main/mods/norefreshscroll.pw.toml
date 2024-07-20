@@ -1,13 +1,13 @@
 name = "NoRefreshScroll"
-filename = "NoRefreshScroll-1.20.4-1.0.7.jar"
+filename = "NoRefreshScroll-1.21-1.0.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bWkJ7ejc/versions/VeeqU7Cy/NoRefreshScroll-1.20.4-1.0.7.jar"
+url = "https://cdn.modrinth.com/data/bWkJ7ejc/versions/JCegpD7G/NoRefreshScroll-1.21-1.0.9.jar"
 hash-format = "sha1"
-hash = "c02657c2c9008a6680036f5c5d6013daae280b0b"
+hash = "f2f253db8baedf89d74e215885361fea2fefb057"
 
 [update]
 [update.modrinth]
 mod-id = "bWkJ7ejc"
-version = "VeeqU7Cy"
+version = "JCegpD7G"

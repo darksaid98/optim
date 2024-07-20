@@ -1,6 +1,6 @@
 {
   "core": {
-    "notifications": true
+    "notifications": false
   },
   "advanced": {
     "recordingPath": "./replay_recordings/",
@@ -20,7 +20,7 @@
     "recordSingleplayer": false,
     "recordServer": false,
     "indicator": true,
-    "autoStartRecording": true,
+    "autoStartRecording": false,
     "autoPostProcess": true,
     "renameDialog": true
   },
