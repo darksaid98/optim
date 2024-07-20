@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.5.2](https://github.com/darksaid98/optim/compare/v1.5.1...v1.5.2) (2024-07-20)
+
+
+### Features
+
+* **main:** 1.21 ([10ba31f](https://github.com/darksaid98/optim/commit/10ba31f67335951500bbf98e7a488b9a36fdb4cd))
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.5.2 ([a236a7e](https://github.com/darksaid98/optim/commit/a236a7e3407c456831b42eac7c340fc29875c9de))
+
 ## [1.5.1](https://github.com/darksaid98/optim/compare/v1.5.0...v1.5.1) (2024-05-30)
 
 
