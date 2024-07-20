@@ -1,16 +1,16 @@
 name = "Optim"
 author = "darksaid98"
-version = "1.5.1"
+version = "1.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6f8fe61aeb8e2a3a2afbfbe5b301a4977b1191fa4d03200c7880cdba10cad88f"
+hash = "c4711bd9d01047e090a11ec5faa5410bc1982b900841fa53d983cd823a64a46a"
 
 [versions]
-fabric = "0.15.11"
-minecraft = "1.20.4"
+fabric = "0.16.0"
+minecraft = "1.21"
 
 [options]
-acceptable-game-versions = ["1.20.2", "1.20.3", "1.20.4"]
+acceptable-game-versions = ["1.21"]
