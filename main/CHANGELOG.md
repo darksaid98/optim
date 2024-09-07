@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.5.3](https://github.com/darksaid98/optim/compare/v1.5.2...v1.5.3) (2024-09-07)
+
+
+### Features
+
+* **main:** support 1.20.1 ([031403b](https://github.com/darksaid98/optim/commit/031403b57741df7b9c72af9b649074bf57c159b1))
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.5.3 ([df55c59](https://github.com/darksaid98/optim/commit/df55c59e9681455b79eaaa06088c5c99b3c236fe))
+
 ## [1.5.2](https://github.com/darksaid98/optim/compare/v1.5.1...v1.5.2) (2024-07-20)
 
 
