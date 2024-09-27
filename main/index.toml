@@ -270,6 +270,11 @@ hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "80ec786a43f9a126979ef102ebf1ea3e92d86ec8d3226d35659b7abab525c017"
+metafile = true
+
+[[files]]
 file = "mods/litematica-fabric-1.21-0.18.999-sakura.24.jar"
 hash = "28239f92b9255042121fd24489375cafb006d3fe7b9c4ef497023f5dd4645395"
 
