@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.7.0](https://github.com/darksaid98/optim/compare/v1.6.3...v1.7.0) (2024-09-28)
+
+
+### Features
+
+* **main:** add axiom ([c258504](https://github.com/darksaid98/optim/commit/c258504a0fb183f3941e39c5ff58ae0ae25c7cf3))
+* **main:** add lighty ([1b5166f](https://github.com/darksaid98/optim/commit/1b5166f805284a3424ff18d3377de3bf67cadb97))
+* **main:** release 1.5.3 ([2809e4a](https://github.com/darksaid98/optim/commit/2809e4a2371791c03fa8f0fcb863ac7db4a71ce7))
+
 ## [1.6.3](https://github.com/darksaid98/optim/compare/v1.5.3...v1.6.3) (2024-09-27)
 
 
