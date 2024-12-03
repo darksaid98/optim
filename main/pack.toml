@@ -1,6 +1,6 @@
 name = "Optim"
 author = "darksaid98"
-version = "1.7.0"
+version = "client-beta-v1.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
