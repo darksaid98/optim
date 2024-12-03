@@ -59,19 +59,19 @@ jobs:
       - name: Update repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: v${{ github.ref_name }}
+          commit_message: ${{ github.ref_name }}
           branch: main
 
       # Package release (Client)
       - name: Build CurseForge Client Modpack
         run: |
-          packwiz curseforge export --output Optim-v${{ github.ref_name }}.zip
+          packwiz curseforge export --output Optim-${{ github.ref_name }}.zip
         shell: bash
         working-directory: ./main
 
       - name: Build Modrinth Client Modpack
         run: |
-          packwiz modrinth export --output Optim-v${{ github.ref_name }}.mrpack
+          packwiz modrinth export --output Optim-${{ github.ref_name }}.mrpack
         shell: bash
         working-directory: ./main
 
@@ -95,7 +95,7 @@ jobs:
             style: Code Style
             revert: Reverts
           default-commit-type: Other Changes
-          release-name: v${{ github.ref_name }}
+          release-name: ${{ github.ref_name }}
           mention-authors: false
           mention-new-contributors: false
           include-compare-link: false
@@ -109,10 +109,10 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            ./main/Optim-v${{ github.ref_name }}.zip
-            ./main/Optim-v${{ github.ref_name }}.mrpack
+            ./main/Optim-${{ github.ref_name }}.zip
+            ./main/Optim-${{ github.ref_name }}.mrpack
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag_name: v${{ github.ref_name }}
+          tag_name: ${{ github.ref_name }}
           draft: true
           prerelease: false
           generate_release_notes: false
