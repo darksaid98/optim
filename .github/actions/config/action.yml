@@ -16,4 +16,4 @@ runs:
       with:
         file: "./main/pack.toml"
         key: "version"
-        value: "client-beta-v${{ inputs.version }}"
+        value: "v${{ inputs.version }}"

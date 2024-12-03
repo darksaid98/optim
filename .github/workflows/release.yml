@@ -46,7 +46,7 @@ jobs:
       - name: Update version field in configs
         uses: ./.github/actions/config
         with:
-          version: ${{ github.ref_name }}
+          version: v${{ github.ref_name }}
 
       # Refresh packwiz files (Client)
       - name: Refresh Packwiz Index Client 
@@ -95,7 +95,7 @@ jobs:
             style: Code Style
             revert: Reverts
           default-commit-type: Other Changes
-          release-name: ${{ github.ref_name }}
+          release-name: v${{ github.ref_name }}
           mention-authors: false
           mention-new-contributors: false
           include-compare-link: false
@@ -112,7 +112,7 @@ jobs:
             ./main/Optim-v${{ github.ref_name }}.zip
             ./main/Optim-v${{ github.ref_name }}.mrpack
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag_name: ${{ github.ref_name }}
+          tag_name: v${{ github.ref_name }}
           draft: true
           prerelease: false
           generate_release_notes: false
