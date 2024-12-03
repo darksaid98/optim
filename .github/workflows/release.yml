@@ -1,0 +1,119 @@
+name: Create Release
+
+on:
+  push:
+    branches:
+      - 'main'
+    tags:
+      - '*.*.*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  discussions: write
+  pull-requests: write
+
+jobs:
+  release:
+    name: Create Release
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+    runs-on: ${{ matrix.os }}
+    if: github.ref_type == 'tag'
+    steps:
+      # Checkout repository and include git LFS files
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+          lfs: true
+
+      # Download files from Git LFS and caches them to reduce bandwidth usage
+      - name: Cache and pull LFS files
+        uses: ./.github/actions/lfs
+
+      # Install PackWiz
+      - name: Install packwiz
+        uses: supplypike/setup-bin@v4
+        with:
+          uri: 'https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip'
+          name: 'packwiz'
+          version: 'linux'
+
+      # Update version fields in modpack configs
+      - name: Update version field in configs
+        uses: ./.github/actions/config
+        with:
+          version: ${{ github.ref_name }}
+
+      # Refresh packwiz files (Client)
+      - name: Refresh Packwiz Index Client 
+        run: |
+          packwiz refresh
+        shell: bash
+        working-directory: ./main
+
+      # Commit and push updated files
+      - name: Update repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: v${{ github.ref_name }}
+          branch: main
+
+      # Package release (Client)
+      - name: Build CurseForge Client Modpack
+        run: |
+          packwiz curseforge export --output Optim-v${{ github.ref_name }}.zip
+        shell: bash
+        working-directory: ./main
+
+      - name: Build Modrinth Client Modpack
+        run: |
+          packwiz modrinth export --output Optim-v${{ github.ref_name }}.mrpack
+        shell: bash
+        working-directory: ./main
+
+      # Generate changelog
+      - name: Generate changelog
+        uses: ardalanamini/auto-changelog@v4
+        id: changelog
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-types: |
+            feat: New Features
+            remove: Removed Features
+            fix: Bug Fixes
+            build: Build System & Dependencies
+            perf: Performance Improvements
+            docs: Documentation
+            test: Tests
+            refactor: Refactors
+            chore: Chores
+            ci: CI
+            style: Code Style
+            revert: Reverts
+          default-commit-type: Other Changes
+          release-name: ${{ github.ref_name }}
+          mention-authors: false
+          mention-new-contributors: false
+          include-compare-link: false
+          include-pr-links: false
+          include-commit-links: false
+          semver: true
+          use-github-autolink: true
+
+      # Create release
+      - name: Create Release Client
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            ./main/Optim-v${{ github.ref_name }}.zip
+            ./main/Optim-v${{ github.ref_name }}.mrpack
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag_name: ${{ github.ref_name }}
+          draft: true
+          prerelease: false
+          generate_release_notes: false
+          body: ${{ steps.changelog.outputs.changelog }}
