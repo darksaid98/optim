@@ -46,7 +46,7 @@ jobs:
       - name: Update version field in configs
         uses: ./.github/actions/config
         with:
-          version: v${{ github.ref_name }}
+          version: ${{ github.ref_name }}
 
       # Refresh packwiz files (Client)
       - name: Refresh Packwiz Index Client 
