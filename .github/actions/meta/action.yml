@@ -22,10 +22,6 @@ outputs:
 runs:
   using: 'composite'
   steps:
-    # Checkout repository
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-
     # Read metadata in pack.toml and output to workflow
     - name: Read Metadata
       id: read
