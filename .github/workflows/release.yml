@@ -50,9 +50,9 @@ jobs:
 
       # Refresh packwiz files (Client)
       - name: Refresh Packwiz Index Client 
+        shell: bash
         run: |
           packwiz refresh
-        shell: bash
         working-directory: ./main
 
       # Commit and push updated files
@@ -64,15 +64,15 @@ jobs:
 
       # Package release (Client)
       - name: Build CurseForge Client Modpack
+        shell: bash
         run: |
           packwiz curseforge export --output Optim-${{ github.ref_name }}.zip
-        shell: bash
         working-directory: ./main
 
       - name: Build Modrinth Client Modpack
+        shell: bash
         run: |
           packwiz modrinth export --output Optim-${{ github.ref_name }}.mrpack
-        shell: bash
         working-directory: ./main
 
       # Generate changelog
