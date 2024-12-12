@@ -96,11 +96,11 @@ jobs:
             revert: Reverts
           default-commit-type: Other Changes
           release-name: ${{ github.ref_name }}
-          mention-authors: false
-          mention-new-contributors: false
+          mention-authors: true
+          mention-new-contributors: true
           include-compare-link: false
-          include-pr-links: false
-          include-commit-links: false
+          include-pr-links: true
+          include-commit-links: true
           semver: true
           use-github-autolink: true
 
