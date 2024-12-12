@@ -68,8 +68,8 @@ runs:
       with:
         modrinth-id: ${{ inputs.MODRINTH_ID }}
         modrinth-token: ${{ inputs.MODRINTH_TOKEN }}
-        loaders: ${{ inputs.mod-loader }}
-        game-versions: ${{ inputs.minecraft-version }}
+        loaders: ${{ env.mod-loader }}
+        game-versions: ${{ env.minecraft-version }}
         files: "*.mrpack"
         version: ${{ inputs.version }}
         version-type: release
@@ -82,8 +82,8 @@ runs:
       with:
         curseforge-id: ${{ inputs.CURSEFORGE_ID }}
         curseforge-token: ${{ inputs.CURSEFORGE_TOKEN }}
-        loaders: ${{ inputs.mod-loader }}
-        game-versions: ${{ inputs.minecraft-version }}
+        loaders: ${{ env.mod-loader }}
+        game-versions: ${{ env.minecraft-version }}
         files: "*.zip"
         version: ${{ inputs.version }}
         version-type: release
