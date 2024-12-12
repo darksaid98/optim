@@ -11,7 +11,6 @@
     <a href="https://github.com/darksaid98/optim/releases">
         <img alt="GitHub Release" src="https://img.shields.io/github/v/release/darksaid98/optim?include_prereleases&sort=semver&style=for-the-badge&label=LATEST%20VERSION&labelColor=141417">
     </a>
-    <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/darksaid98/optim/release.yml?style=for-the-badge&labelColor=141417">
     <a href="https://github.com/darksaid98/optim/issues">
         <img alt="GitHub Issues" src="https://img.shields.io/github/issues/darksaid98/optim?style=for-the-badge&labelColor=141417">
     </a>
