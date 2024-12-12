@@ -75,6 +75,16 @@ jobs:
           packwiz modrinth export --output Optim-${{ github.ref_name }}.mrpack
         working-directory: ./main
 
+      # Upload artifacts of release files
+      - name: Upload Release Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: Modpack-Release
+          path: |
+            ./main/Optim-${{ github.ref_name }}.zip
+            ./main/Optim-${{ github.ref_name }}.mrpack
+          retention-days: 1
+
       # Fetch modpack metadata from the modpack config
       - name: Read Modpack Metadata
         id: metadata
@@ -125,7 +135,7 @@ jobs:
           generate_release_notes: false
           body: ${{ steps.changelog.outputs.changelog }}
 
-      - name: Create Release Client (Modrinth)
+      - name: Create Release Client (Modrinth & CurseForge)
         uses: ./.github/actions/release
         with:
           working-directory: ./main

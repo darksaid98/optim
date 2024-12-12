@@ -49,13 +49,12 @@ runs:
       uses: actions/checkout@v4
 
     # Download release files
-    - name: Download Release
-      uses: robinraju/release-downloader@v1.11
+    - name: Download Release Artifacts
+      uses: actions/download-artifact@v4
       with:
-        fileName: "*"
-        tag: ${{ inputs.version }}
-        tarBall: false
-        zipBall: false
+        name: Modpack-Release
+        run-id: ${{ github.event.workflow_run.id }}
+        merge-multiple: true
 
     # Create a markdown file of the release description
     - name: Pipe Release Description to File
