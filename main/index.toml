@@ -280,8 +280,14 @@ hash = "701306dca7dca07d2c5b0fa6714671b01c3c19ace84439158512a10fcb02439b"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1.21-0.18.999-sakura.24.jar"
-hash = "28239f92b9255042121fd24489375cafb006d3fe7b9c4ef497023f5dd4645395"
+file = "mods/litematica-printer.pw.toml"
+hash = "bcf9284ca7c60bad8d6a5eb35022a1882ce2a63b2abfba7d9d5a9419758b6ae5"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "75c1ac0d7b926cb03b43e8c416921ffdc0fc2f31d0bdf20d2c91c91705986680"
+metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -289,8 +295,9 @@ hash = "897b2efd9cc8d4e9eddb1ee15cfa3504ff213d8bfcae0dbfa594d39828760192"
 metafile = true
 
 [[files]]
-file = "mods/malilib-fabric-1.21-0.19.999-sakura.8.jar"
-hash = "4c035f9533c6c5b666bc276d8b85b928b831ba786b0a11d7fc9fcf06bb106df7"
+file = "mods/malilib.pw.toml"
+hash = "a2beaef3f5f4236d6302152b23edf322372c2ae6a3ce70593acde1ce14ae5bd0"
+metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
