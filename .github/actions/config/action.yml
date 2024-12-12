@@ -12,8 +12,5 @@ runs:
   steps:
     # Update version fields for client pack
     - name: Update client versions
-      uses: colathro/toml-editor@1.1.0
-      with:
-        file: "./main/pack.toml"
-        key: "version"
-        value: "${{ inputs.version }}"
+      run: |
+        sed -i -b 's/^version = .*/version = "${{ inputs.version }}"/' ./main/pack.toml
