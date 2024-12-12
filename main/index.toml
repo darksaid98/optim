@@ -71,11 +71,6 @@ hash = "720fdf2f48ca7ba2f40956bdeb1186416c7ebed0c6659adbb29b9a7cc51edca1"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
 metafile = true
@@ -98,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "c63df4505195fe4281cc182c9cc4e3812a0a1717e93824b9cb006987e80db7c0"
-metafile = true
-
-[[files]]
-file = "mods/better-mount-hud.pw.toml"
-hash = "eff006789cdd400f7a5fa60485270a0aee77c5947ac056fdb2ddcd43017612d0"
 metafile = true
 
 [[files]]
@@ -166,23 +156,8 @@ hash = "2e71ee44474a88d29b5e02600928bbf11fc74e7ae02d23c73547f0af9e7892e5"
 metafile = true
 
 [[files]]
-file = "mods/ding.pw.toml"
-hash = "8156a0dadd3a641388d15d8dbf788531eb2c903f6b5d2ed1376e81e6acf85569"
-metafile = true
-
-[[files]]
-file = "mods/draggable_lists-mc1.20.6-1.0.5-rev.642bc5b.jar"
-hash = "534193829e96202f60f69560b256603c41f360fc89e2e81d315cfd8ff3ef25a2"
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "f42ac5b765061a9246f62bb63f682303c707c02addd50278cc078395c64e0dab"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
-metafile = true
+file = "mods/draggable_lists-1.1.0-Fabric.jar"
+hash = "250c212e51595cfd063702dcd84cb9c03ff1ba68be425d9a4b3e1bd876173370"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
@@ -207,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
 metafile = true
 
 [[files]]
@@ -242,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "7a22c6e2c384fa3e650f2588efb846fdeb9d9bc41eef4dae69034c2daeadc990"
-metafile = true
-
-[[files]]
-file = "mods/ichunutil.pw.toml"
-hash = "1b731b62c1f7be330e88d87cdc5f826443b92cdaa667a34e7e0461230ad21eaf"
 metafile = true
 
 [[files]]
@@ -310,11 +275,6 @@ hash = "90fdcee7acd98581d3294c264ff2537b9024f4b31d51337b0ea97305471c07fb"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d86021db88c3e382068d8ada790299da9b0ccfb4592d7653a0d477af156b8ed2"
 metafile = true
@@ -360,11 +320,6 @@ hash = "e0cdafee09038c89462c80b476aa8ee45ee603bc4ef7a1f1465fec08fbac538e"
 metafile = true
 
 [[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "c803d271faae47b193e3ba9ca611894252bf55d4c6aab303f56bcf6b183056c7"
 metafile = true
@@ -402,11 +357,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "ad2afc96252d866e56821ba2daf7eba327ed1f74e4cd38677000980b83c98a4c"
-metafile = true
-
-[[files]]
-file = "mods/stendhal.pw.toml"
-hash = "6533e7eaad68cad764272e5c4857a075ceb8a149546fec0d16179ba2a1a49fee"
 metafile = true
 
 [[files]]
