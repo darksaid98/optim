@@ -75,6 +75,13 @@ jobs:
           packwiz modrinth export --output Optim-${{ github.ref_name }}.mrpack
         working-directory: ./main
 
+      # Fetch modpack metadata from the modpack config
+      - name: Read Modpack Metadata
+        id: metadata
+        uses: ./.github/actions/meta
+        with:
+          working-directory: ./main
+
       # Generate changelog
       - name: Generate changelog
         uses: ardalanamini/auto-changelog@v4
@@ -105,7 +112,7 @@ jobs:
           use-github-autolink: true
 
       # Create release
-      - name: Create Release Client
+      - name: Create Release Client (GitHub)
         uses: softprops/action-gh-release@v2
         with:
           files: |
@@ -117,3 +124,18 @@ jobs:
           prerelease: false
           generate_release_notes: false
           body: ${{ steps.changelog.outputs.changelog }}
+
+      - name: Create Release Client (Modrinth)
+        uses: ./.github/actions/release
+        with:
+          working-directory: ./main
+          version: ${{ github.ref_name }}
+          mod-loader: ${{ steps.metadata.outputs.mod-loader }}
+          minecraft-version: ${{ steps.metadata.outputs.minecraft-version }}
+          modrinth: true
+          curseforge: true
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+          MODRINTH_ID: ${{ secrets.MODRINTH_ID }}
+          CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
+          CURSEFORGE_ID: ${{ secrets.CURSEFORGE_ID }}
+          changelog: ${{ steps.changelog.outputs.changelog }}

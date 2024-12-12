@@ -1,0 +1,46 @@
+name: 'Read Metadata'
+description: 'Reads metadata from modpack config and outputs it.'
+
+inputs:
+  working-directory:
+    description: 'Path to the modpack directory'
+    required: false
+    default: '.'
+  pack-file:
+    description: 'Path to the pack config file'
+    required: false
+    default: 'pack.toml'
+
+outputs:
+  mod-loader:
+    description: 'Detected mod loader'
+    value: ${{ steps.read.outputs.mod-loader }}
+  minecraft-version:
+    description: 'Detected minecraft version'
+    value: ${{ steps.read.outputs.minecraft-version }}
+
+runs:
+  using: 'composite'
+  steps:
+    # Checkout repository
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    # Read metadata in pack.toml and output to workflow
+    - name: Read Metadata
+      id: read
+      shell: bash
+      working-directory: ${{ inputs.working-directory }}
+      run: |
+        loaders=("fabric" "forge" "quilt" "neoforge", "rift")
+        for loader in "${loaders[@]}"; do
+          if [[ $(<"pack.toml") == *"$loader ="* ]]; then
+            MODPACK_MODLOADER="$loader" && break
+          fi
+        done
+
+        [[ -z "$MODPACK_MODLOADER" ]] && { echo "::error file=pack.toml::No valid modpack loader found in pack.toml" && exit 1; }
+
+        MODPACK_MINECRAFT_VERSION=$(grep -oP 'minecraft = "\K[^"]+' "pack.toml")
+        echo "mod-loader=$MODPACK_MODLOADER" >> $GITHUB_ENV
+        echo "minecraft-version=$MODPACK_MINECRAFT_VERSION" >> $GITHUB_ENV

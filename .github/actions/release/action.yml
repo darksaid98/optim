@@ -1,0 +1,91 @@
+name: 'Publish Release On External Platforms'
+description: 'Publish a release to specific modding platforms.'
+
+inputs:
+  modrinth:
+    description: "Whether to upload to Modrinth"
+    required: true
+  curseforge:
+    description: "Whether to upload to CurseForge"
+    required: true
+
+  working-directory:
+    description: 'Path to the modpack directory'
+    required: false
+    default: '.'
+  version:
+    description: 'Modpack version'
+    required: true
+    default: '1.0.0'
+  mod-loader:
+    description: "Detected mod loader"
+    required: true
+    default: 'fabric'
+  minecraft-version:
+    description: "Detected minecraft version"
+    required: true
+  changelog:
+    description: "The changelog as markdown text"
+    required: true
+    
+  MODRINTH_TOKEN:
+    required: false
+    description: "Token used for authenticating with Modrinth API"
+  MODRINTH_ID:
+    required: false
+    description: "Identifier used for authenticating with Modrinth API"
+  CURSEFORGE_TOKEN:
+    required: false
+    description: "Token used for authenticating with CurseForge API"
+  CURSEFORGE_ID:
+    required: false
+    description: "Identifier used for authenticating with CurseForge API"
+
+runs:
+  using: 'composite'
+  steps:
+    # Checkout repository
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    # Download release files
+    - name: Download Release
+      uses: robinraju/release-downloader@v1.11
+      with:
+        fileName: "*"
+        tag: ${{ inputs.version }}
+        tarBall: false
+        zipBall: false
+
+    # Create a markdown file of the release description
+    - name: Pipe Release Description to File
+      shell: bash
+      run: echo "${{ inputs.changelog }}" > CHANGELOG.release.md
+
+    # Publish release to Modrinth
+    - name: Publish to Modrinth
+      if: inputs.modrinth == 'true'
+      uses: Kir-Antipov/mc-publish@v3.3
+      with:
+        modrinth-id: ${{ inputs.MODRINTH_ID }}
+        modrinth-token: ${{ inputs.MODRINTH_TOKEN }}
+        loaders: ${{ inputs.mod-loader }}
+        game-versions: ${{ inputs.minecraft-version }}
+        files: "*.mrpack"
+        version: ${{ inputs.version }}
+        version-type: release
+        changelog-file: CHANGELOG.release.*
+
+    # Publish release to CurseForge
+    - name: Publish to CurseForge
+      if: inputs.curseforge == 'true'
+      uses: Kir-Antipov/mc-publish@v3.3
+      with:
+        curseforge-id: ${{ inputs.CURSEFORGE_ID }}
+        curseforge-token: ${{ inputs.CURSEFORGE_TOKEN }}
+        loaders: ${{ inputs.mod-loader }}
+        game-versions: ${{ inputs.minecraft-version }}
+        files: "*.zip"
+        version: ${{ inputs.version }}
+        version-type: release
+        changelog-file: CHANGELOG.release.*
