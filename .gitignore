@@ -9,3 +9,6 @@
 
 # Misc files
 *.todo
+
+# Git LFS
+.lfs-assets-id
