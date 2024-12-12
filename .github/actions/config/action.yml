@@ -12,5 +12,6 @@ runs:
   steps:
     # Update version fields for client pack
     - name: Update client versions
+      shell: bash
       run: |
         sed -i -b 's/^version = .*/version = "${{ inputs.version }}"/' ./main/pack.toml
