@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "c63df4505195fe4281cc182c9cc4e3812a0a1717e93824b9cb006987e80db7c0"
+hash = "3c5e7f0319589f1a2e4aae3efcffc9b6836c90643343d5c6c14a6cb3417d583b"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "38e20fe6e426b121d2b47b637d981f433faf285a471924624f819f3f952e805b"
+hash = "4c8238af1f48efeb6811308e7b0e63c0b5282234a48e7f3f99232f3a71576014"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ hash = "250c212e51595cfd063702dcd84cb9c03ff1ba68be425d9a4b3e1bd876173370"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "406a838e4befb2727bfa495d9e9718dbabc198c2a1fa905f8bd563cc2e837313"
+hash = "0712f5b6e3ba0fec55b99924ef061c4ecf6f38ef08595da79fe7afb68ca4328c"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c90401b01cb9150d677da1324ca295ee8d66d49b07b8c49a3fec175174154808"
+hash = "8200bf6ae22c874f6fd8853c8db86113ca8a0a038ec7cacb014df8328e2c784d"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "701306dca7dca07d2c5b0fa6714671b01c3c19ace84439158512a10fcb02439b"
+hash = "c36c444e1ef940ace11942d7a46f4a9b73ecd7a16a1a7d78e3dd8ce6de08b722"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "75c1ac0d7b926cb03b43e8c416921ffdc0fc2f31d0bdf20d2c91c91705986680"
+hash = "325ab6481c26592b7251805466f097de0a2db186b95a430982983771a6ac8ad7"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "a2beaef3f5f4236d6302152b23edf322372c2ae6a3ce70593acde1ce14ae5bd0"
+hash = "bc6a37f0086f9bdd154ae4d9c7b35bfe216f9cecb2966f9eebde638a2f298eb6"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a9cab599513a5886182d60d67f2e1a25ec86cc28252a56bcf0bcf77c4332bc51"
+hash = "8aed0b2efeba2f6706abbd3c3d201a1cabdc636b0e69347949e98b74e8c0227f"
 metafile = true
 
 [[files]]
@@ -311,12 +311,12 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "e04f4b078991cbf00aa969b7333b4f325467959d9cfee4672456f8524bdc03e9"
+hash = "281c81d9968256d6dc31a12d3d1ed9b3c590769bd8d5dd42305fd454a7e15721"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "e0cdafee09038c89462c80b476aa8ee45ee603bc4ef7a1f1465fec08fbac538e"
+hash = "b5d0b6a045b0b5d3b2c04a95ac74209ce3df4971980c6b6d7d5acac34506f38d"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "01f333d58f68165736ae6897eaa19c4623b26c2d675cfd5b07084f8d787cbbb9"
+hash = "013c646e30964037824079d908b10921700c4c6ef2fa10de3d7043a98286bffe"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1119738e75bdf45332c59d2dc774e192646a9207b0d9ef9798153861379db580"
+hash = "3864737ec8a6f1ca618ccf7893fd235decc7c66ccd2259561fe28972b68c9d02"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "7dd35956dc85452faa404d05b3fdda74eab7a6e27b4fcbf8b857fc149235eb8a"
+hash = "69725558b1b4546603fc4071109121f901576b3f0fcd76df75bfbbf9f64b173f"
 metafile = true
 
 [[files]]

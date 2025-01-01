@@ -1,13 +1,13 @@
 name = "MaLiLib"
-filename = "malilib-fabric-1.21.3-0.22.2.jar"
+filename = "malilib-fabric-1.21.3-0.22.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/GBA3Tz2i/malilib-fabric-1.21.3-0.22.2.jar"
+url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/tcM53z78/malilib-fabric-1.21.3-0.22.4.jar"
 hash-format = "sha1"
-hash = "0547867d4dd6de3d76ad9c025657c5428d0adafd"
+hash = "575f4895b18921605b85406ab85f2b705d07fb6a"
 
 [update]
 [update.modrinth]
 mod-id = "GcWjdA9I"
-version = "GBA3Tz2i"
+version = "tcM53z78"
