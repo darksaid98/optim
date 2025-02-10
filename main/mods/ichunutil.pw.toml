@@ -1,0 +1,13 @@
+name = "iChunUtil"
+filename = "iChunUtil-1.21.4-Fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W6ROj0Hl/versions/lNAlivNS/iChunUtil-1.21.4-Fabric-1.0.4.jar"
+hash-format = "sha1"
+hash = "635b6bd67bc8d4f0d6aa30a05e17fa3284d8f66e"
+
+[update]
+[update.modrinth]
+mod-id = "W6ROj0Hl"
+version = "lNAlivNS"

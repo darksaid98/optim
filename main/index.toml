@@ -96,6 +96,11 @@ hash = "8bad875db85e1f11b5b3600561d75c3f735ae99bb66e424cc4b7e5cb13e71396"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "914137bcf73ac2979d5e4f35d6c8c9c24990f40087dca5a4181f12debe3ece0a"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "a5906f1258a52fbca5bdd773d7f02773e93853551f49411d34372e6470ca6f24"
 metafile = true
@@ -156,8 +161,18 @@ hash = "5c8570900a48b689ac3cccdc888598787b5fb6dd07cc11c96864c73e3f95ff9a"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "bfbb72ecb5343a96e0643cf6c2d4ce4306be24d8bd4a8517dbdd20a5d799bca7"
+metafile = true
+
+[[files]]
 file = "mods/draggable_lists-1.2.0-Fabric.jar"
 hash = "adda3291830b47f1358c3bc4423a582f928109d250bb43ace4fa4d56c00cbdb6"
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "c8470b279372c8b2b220fea0292b2dd7efe17a0fa62a10b3c03aae0fbf29169a"
+metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
@@ -215,6 +230,11 @@ hash = "77ad9a7ea9fe0d657170456efd8a5ac4ed28289c8f5207057627a21ba15cf0f4"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "70a287b1ed10c78d767725a0eb67b9c76aeaf66b910e78909f726e05cf45f592"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "485f230a4d6ce28bc67e8b6a475460016617ca2889e477274d762899d855485e"
 metafile = true
@@ -232,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "57d890a26f6441ecdb4c1285f4979f208da16d9d917565844a50a20bd803d49b"
 metafile = true
 
 [[files]]
@@ -282,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "90f207724a47d6b32f45c6a53da2539f544df944709418761ec8ede01a401a47"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0b867defc61534b59cfccd1e3b486b19fb0c8da184473a7157346380fd91ea4c"
 metafile = true
 
 [[files]]
@@ -357,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "7ea8729598e5b71f5e5dc3e52d09842a9a603d06f4331a954ab56be869f314a5"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "4e29e10e50d942d1406c5c399536080ef59c1ce1b2bc7a9331708e488aba62ae"
 metafile = true
 
 [[files]]
