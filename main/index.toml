@@ -390,6 +390,11 @@ hash = "7ea8729598e5b71f5e5dc3e52d09842a9a603d06f4331a954ab56be869f314a5"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+metafile = true
+
+[[files]]
 file = "mods/stendhal.pw.toml"
 hash = "4e29e10e50d942d1406c5c399536080ef59c1ce1b2bc7a9331708e488aba62ae"
 metafile = true
