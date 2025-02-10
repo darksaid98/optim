@@ -1,13 +1,13 @@
 name = "Blur (Fabric)"
-filename = "blur-fabric-5.0.1+1.21.3.jar"
+filename = "blur-fabric-5.1.3+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NK39zBp2/versions/JWYifdf0/blur-fabric-5.0.1%2B1.21.3.jar"
+url = "https://cdn.modrinth.com/data/NK39zBp2/versions/g8eTEPLm/blur-fabric-5.1.3%2B1.21.4.jar"
 hash-format = "sha1"
-hash = "ccbba3040379cbab7d3354dbb24e44ec00df369f"
+hash = "bdfd54cb46364739cfbbbf474b26261b56df48b8"
 
 [update]
 [update.modrinth]
 mod-id = "NK39zBp2"
-version = "JWYifdf0"
+version = "g8eTEPLm"
