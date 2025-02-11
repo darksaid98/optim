@@ -220,6 +220,11 @@ hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "fb0b9d44199f7c1616cbd092a793b37d0998942c349bc614748f9b8a3277f7bc"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "00d9b198ef82ecc127e22b10cb02798bf4170d8284a2f8b80a96d8275a490b35"
 metafile = true
@@ -342,11 +347,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "9af64460a9953af93481607744b30bf6af6a40f52e49a159b20d6fccc3941e56"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.pw.toml"
-hash = "8956b796f5c8632ec933ed1f7e57a3bba2cb282be5322ce50bf335e4d4cb5e91"
 metafile = true
 
 [[files]]
