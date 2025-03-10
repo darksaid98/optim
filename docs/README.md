@@ -17,7 +17,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/darksaid98/optim?style=for-the-badge&labelColor=141417">
 </p>
 
-Optim is a Fabric modpack that aims to provide maximum performance with some common quality-of-life modifications to the game. It is a highly opinionated selection of mods with the intent
+Optim is a Fabric modpack that aims to provide maximum performance with some common quality-of-life modifications to the game. It is a highly opinionated selection of mods I intentionally handpicked to share my improved experience with the wider Minecraft community.
 
 ---
 
