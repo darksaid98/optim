@@ -9,6 +9,10 @@ file = "config/yosbr/config/fabrishot.properties"
 hash = "daccbfe6048a3989d44002b99e43ec9804d4f8c1195e391e8827db0467c36636"
 
 [[files]]
+file = "config/yosbr/config/firstperson.json"
+hash = "3ccd2259d9e7f97880c85c09e87f5a7fc9c3cb61c43baecb4a7b7cf45efe115a"
+
+[[files]]
 file = "config/yosbr/config/freecam.json5"
 hash = "8f700c032a3bbd6c411a9ff942766b93c29f8c42df14f7f3ee888448a9fdabaf"
 
@@ -62,7 +66,7 @@ hash = "eabdcd97e6792f21e0ebb79b58c452a690e57ddf4b65922f141b78989cd23e3e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b417497275c9dae38f8c2e6d805891e7f49caa6fa9b2c5989bbb2e25da9e68ab"
+hash = "ed703b420aaa6cee730ab17ebd2a5fbefebcfcb1899273a1654e8659aa520883"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -142,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "f9cd1789274da550e65431a02052f7560217d76f2ffe8f37da5e36ca6c5d3f16"
+metafile = true
+
+[[files]]
+file = "mods/coolrain.pw.toml"
+hash = "524959444a2fe7cfc7c5075265151c9ff3332a0b4e0e1067c9f63b8818669bee"
 metafile = true
 
 [[files]]
@@ -356,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "43f000e70ae059eb868725b81dec036a93965b6dda26ade3dc43f31ca7ce693b"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "4c091f6a6fe3cb9a3cf6c71ebba24c8cf7073e4ae4d0b9acad04be5dad01439f"
 metafile = true
 
 [[files]]
