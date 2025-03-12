@@ -375,6 +375,11 @@ hash = "f8b7bd7d4ca00ed1163608a3ac5b58f2db30f8961507daacb8b215042b5d45ea"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "b37736264053318c097954ab3005fa72253794db2e7a3d4bcd3dc7a5ea4310aa"
+metafile = true
+
+[[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "c37edc2336271418fa06c83ff1251b9ecf2509576b66284302343537addcd86f"
 metafile = true
