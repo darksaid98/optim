@@ -41,6 +41,10 @@ file = "config/yosbr/config/ryoamiclights.toml"
 hash = "18b24f6d43a164f17bfe4ffc5470b7f58d311ce75ef3d932ae238394486b5ad3"
 
 [[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "db85ba235510d022acd24965041a966b24ee36a319668deb8e2c867ffbae8fac"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "159ed771788a63142f1cebc8d39e0b590bffe5bbf0a9fe69a704b00aef15cb46"
 
@@ -220,6 +224,11 @@ hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "ff8d46721ac85f8a1a6f2ef034655b0f9537685b79cc42f17e73a01093d2a7f7"
+metafile = true
+
+[[files]]
 file = "mods/flashback.pw.toml"
 hash = "aafa2f2607f0cc02d3cfacab0f0812831ba0d70afb0f579287ba62476310cc33"
 metafile = true
@@ -302,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "90fdcee7acd98581d3294c264ff2537b9024f4b31d51337b0ea97305471c07fb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7d28a92f816b7528efec4a2d6e9a434d5841097f7fdb07223cadab0d433311d0"
 metafile = true
 
 [[files]]
