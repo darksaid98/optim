@@ -320,6 +320,11 @@ hash = "5f60f9efe07d64977af98ec7a603ce8952e03763eadf65f43254d39fdee9cec1"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ce5d42529ee247ac041a901de56b2b017c202662d99d6ead3e50b7c9e57f5131"
+metafile = true
+
+[[files]]
 file = "mods/norefreshscroll.pw.toml"
 hash = "6a13646d21e6b21881f0620691d561a13e5bc63056e8ba77ffa2791daaefc1e4"
 metafile = true
