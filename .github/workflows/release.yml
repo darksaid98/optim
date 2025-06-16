@@ -57,7 +57,7 @@ jobs:
 
       # Commit and push updated files
       - name: Update repository
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: ${{ github.ref_name }}
           branch: main
