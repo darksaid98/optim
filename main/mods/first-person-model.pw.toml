@@ -1,13 +1,13 @@
 name = "First-person Model"
-filename = "firstperson-fabric-2.4.8-mc1.21.4.jar"
+filename = "firstperson-fabric-2.4.9-mc1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/INVATJt2/firstperson-fabric-2.4.8-mc1.21.4.jar"
-hash-format = "sha1"
-hash = "be5a930392b7af4f5476fe7e8b84f88deb70422f"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/jGNLTOaM/firstperson-fabric-2.4.9-mc1.21.5.jar"
+hash-format = "sha512"
+hash = "8950fdf7804d97983a55ecf46dfb318454f5be55ce3611b74f85d76d2eb2658f75fa059c16013c982d3c543a783ef7af23e6453b3e1863b0167b34cf26c9f19a"
 
 [update]
 [update.modrinth]
 mod-id = "H5XMjpHi"
-version = "INVATJt2"
+version = "jGNLTOaM"

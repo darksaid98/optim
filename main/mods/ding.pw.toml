@@ -1,13 +1,13 @@
 name = "Ding"
-filename = "Ding-1.21.4-Fabric-1.5.0.jar"
+filename = "Ding-1.21.5-Fabric-1.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UEtTD3gP/versions/Cfb63zvU/Ding-1.21.4-Fabric-1.5.0.jar"
-hash-format = "sha1"
-hash = "349bb84dd4ed0c3fde2be94f9c8c46f65375673e"
+url = "https://cdn.modrinth.com/data/UEtTD3gP/versions/YUeA6WAO/Ding-1.21.5-Fabric-1.5.0.jar"
+hash-format = "sha512"
+hash = "759eafecb42f68cf8bfdd186d732b5936b0401167108edc6376faf6951126a6be65e1dba300e64a4e13d35ab9fc9def4ab4c9e127672000df54ef579c4e86c04"
 
 [update]
 [update.modrinth]
 mod-id = "UEtTD3gP"
-version = "Cfb63zvU"
+version = "YUeA6WAO"
