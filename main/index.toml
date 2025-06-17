@@ -171,10 +171,6 @@ metafile = true
 [[files]]
 file = "mods/draggable_lists-1.2.0-Fabric.jar"
 hash = "adda3291830b47f1358c3bc4423a582f928109d250bb43ace4fa4d56c00cbdb6"
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "c8470b279372c8b2b220fea0292b2dd7efe17a0fa62a10b3c03aae0fbf29169a"
 metafile = true
 
 [[files]]
