@@ -35,12 +35,13 @@ jobs:
         uses: ./.github/actions/lfs
 
       # Install PackWiz
-      - name: Install packwiz
-        uses: supplypike/setup-bin@v4
+      - name: Install Go
+        uses: actions/setup-go@v5
         with:
-          uri: 'https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip'
-          name: 'packwiz'
-          version: 'linux'
+          go-version: '>=1.19'
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
 
       # Update version fields in modpack configs
       - name: Update version field in configs
