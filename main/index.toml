@@ -94,11 +94,6 @@ hash = "e6d97472f4e4e027293938e8397b1af987099085a13c932d621231e4ffa19c94"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "cc49948aacd94bd61af802d12e793517c9640a76c6a3c40b711d96783037118f"
-metafile = true
-
-[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "8bad875db85e1f11b5b3600561d75c3f735ae99bb66e424cc4b7e5cb13e71396"
 metafile = true
