@@ -13,8 +13,20 @@ file = "config/yosbr/config/firstperson.json"
 hash = "3ccd2259d9e7f97880c85c09e87f5a7fc9c3cb61c43baecb4a7b7cf45efe115a"
 
 [[files]]
+file = "config/yosbr/config/flashback/flashback.json"
+hash = "907892e5b78dc879fc92415104e755844ebad9e30229c60bc55fa744128d4284"
+
+[[files]]
 file = "config/yosbr/config/freecam.json5"
 hash = "8f700c032a3bbd6c411a9ff942766b93c29f8c42df14f7f3ee888448a9fdabaf"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "6367cdbdf94f763c39e54cb7cd9ce5592064f9103e01fb1e8f51b56212ee75b1"
+
+[[files]]
+file = "config/yosbr/config/lighty/base.config"
+hash = "09b68befbdae4e308a1fa19f5c39e368a540cbd2cf33ff874af2955812912893"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
@@ -33,16 +45,8 @@ file = "config/yosbr/config/puzzle.json"
 hash = "66235fd57899fb488f0e30b8a20feb3e90d93eb88f5edc0d252cf16daa2f7c91"
 
 [[files]]
-file = "config/yosbr/config/replaymod.json"
-hash = "7bab85aa8d7b3381c393af0c30987af67441ded4c54eaa597f98c58f5af9c4c7"
-
-[[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "a78f47d49c1c8ad22fcd195abc2c9715324f3e209670cdebab28810dfaf18f7d"
-
-[[files]]
-file = "config/yosbr/config/ryoamiclights.toml"
-hash = "18b24f6d43a164f17bfe4ffc5470b7f58d311ce75ef3d932ae238394486b5ad3"
 
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
@@ -70,7 +74,7 @@ hash = "ed703b420aaa6cee730ab17ebd2a5fbefebcfcb1899273a1654e8659aa520883"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
+hash = "e5e0885e614d4d22bda2248d3688b7ba6559fe1ca947b416124e61c0aaa70c79"
 metafile = true
 
 [[files]]
@@ -95,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "1a7cea44bad8bd6e27677bfc63733f11f1867b635d8918c722f38e8f5cf552ae"
+hash = "3e4437c853f98971f45aafcc58580d7f4cc115c801df5cada5ba18c63cbe4976"
 metafile = true
 
 [[files]]
@@ -175,12 +179,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9e85c1d81c240528f05a386717bc69d02f4d7862c53c7ddccbeb17f742000771"
+hash = "ac15d0873dd1f711e886f07f463b2bd9912940a344ef4dd4219aa456ba4760e4"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
+hash = "33d22f0f1f007754a2b13b267c395afb577616fcbb29b7473a06dca256f23803"
 metafile = true
 
 [[files]]
@@ -190,17 +194,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "958810fbf4f0c978e3c7a78b42829cdb4dcdc78be467dab37a9993df2d3eb5c0"
+hash = "275a1ecb11bde12b8c4c713b533230c75bc47bcffc590c5299287263d828c9b3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "b062d71c371b3361e700edb4db46acd1a1feed6c91b95764e08e03cdb25ba1f5"
+hash = "12d014178cac4930a88909d241bf537c3908ff9c2c6176f2c8a22a109a4c2363"
 metafile = true
 
 [[files]]
@@ -210,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "d1f2e11d7f6e1749f57e90bf8059d834f78500ca4aa98a3bc93826fd3e1bcc12"
+hash = "8aaa0feac60e0e8b26a13b16a8ca5e95a347d7bae3cc9ae17b95d7df9c532d35"
 metafile = true
 
 [[files]]
@@ -220,12 +224,12 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "9f6bfd8b1599cb3138035052adfaf761bd0b276777984480be4b395523b28805"
+hash = "941c4cd7a9f708b43b7779807751e80398ca69d24a68fbbb727b02d09eb29b22"
 metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "b50e5adbe6e510c832d9acf75c85689b40cec041d52ae969940d0632cc8ee67e"
+hash = "4e188302d675b528e65c0dab175fddb27003354b8c2daaf757bd6fde3cb6b240"
 metafile = true
 
 [[files]]
@@ -245,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
+hash = "5d6f1406628a792f100454fb8cbf3ad70a76fe58e0bdb09df3cf5e8d86e878a7"
 metafile = true
 
 [[files]]
@@ -256,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
+metafile = true
+
+[[files]]
+file = "mods/jjelytraswap.pw.toml"
+hash = "559514685a8a82117bf804e67d63907b82a60a430c692f377f7da2f348148be8"
 metafile = true
 
 [[files]]
@@ -270,12 +279,12 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "9ec22a69da98cef889829ee289c8c08bff2b26c181eebd1303cd35a7ecc102f4"
+hash = "fd344aa2c329dbb6b894ac1fcda5e82e1a965967a3dd7493b7a3e0a6eccc2226"
 metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "8977ef4284b22494a5217802443c05a5d38205751978aa10e60f45da1a5040ee"
+hash = "0247b99e87c04236dc92c39d735939d5b44617ebfea69e0f3cc7164dc012a2b0"
 metafile = true
 
 [[files]]
@@ -285,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "22b248a849cce73c435ae42d18930a54c597bff231ed75a4e4df595a90cde20b"
+hash = "d757a19408f3e9b09d4a1511f71ab912a2d453f9fa7f7e342067d298ff4d2cf0"
 metafile = true
 
 [[files]]
@@ -295,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "6def8bc95e2fa2cb7de9dd48c1531d5e761ac528f0034dba9e72f072e4d8cc4c"
+hash = "7e57affb55a7d3a5cfe9db4ca5308835f410644f8e500b6a13a8e04b3e340515"
 metafile = true
 
 [[files]]
@@ -335,12 +344,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
+hash = "3df2b58ab8b9b0fd8743d0be43763f0563260429448d8db0a735b57156737b1e"
 metafile = true
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "1018756b878c4a5095130455f970c7ae448c059ee5fa47f783ceeff817057954"
+hash = "23d4e03de46b6b7e5db3d2ab42354ed8167e089836d81c698e0c14c9b2469c44"
 metafile = true
 
 [[files]]
@@ -360,12 +369,8 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "fb968012652cc09eddfcd7972cc6162cb05364f73eeed5b3e90609c0a608bfa5"
+hash = "93d0ced44593de98cb15e20f77c7373fe9e31c303eefe48fce218493a331174a"
 metafile = true
-
-[[files]]
-file = "mods/screenshot-to-clipboard-fabric-1.0.11-dev.ae0f78d.jar"
-hash = "21dcd29fee2054c82bf45912c1f9154336bad936839fc1572457e66dbef05076"
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -379,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "6ed11afc0e23bf7c0d561134bf0a3e68444f5ec560867a38dab1dcfffb9f85f3"
+hash = "6543cec99acd9e1b4620d180606f1d324e3ee06171f714b4e54b486b9723ade2"
 metafile = true
 
 [[files]]
@@ -429,12 +434,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "7c6d8dcec95023f027deff6645570ddccadc762545ae8fbd23b21499b15bc949"
+hash = "09a90457d22e51bd4612635639184596dc87ffa52a4900139d33ccb09a31b26b"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "76d79c4c09c4b862ce82cc0cfee5ee4f01222c1968586ba68d9435767aecfcd8"
+hash = "ad3df3f2d0869be4a57dd7ccbeb98c3a95b941b1beb7720bb4629857b560a63e"
 metafile = true
 
 [[files]]
