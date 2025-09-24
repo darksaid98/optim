@@ -74,7 +74,7 @@ hash = "ed703b420aaa6cee730ab17ebd2a5fbefebcfcb1899273a1654e8659aa520883"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "e5e0885e614d4d22bda2248d3688b7ba6559fe1ca947b416124e61c0aaa70c79"
+hash = "599b493a454411ad83f055f763394176a90b0c3a8a2bd3f7c50acde27fec4a79"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "3e4437c853f98971f45aafcc58580d7f4cc115c801df5cada5ba18c63cbe4976"
+hash = "91cf41d71f3bc6d8c2a88ee0ad4a46038eec630c62a76e561bac2b7793686dfb"
 metafile = true
 
 [[files]]
@@ -125,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
+metafile = true
+
+[[files]]
+file = "mods/clipboardscreenshot.pw.toml"
+hash = "ccb55eea3dd43a316a77ec9d8e7293377bb82be0bc8fbb9973564df09689bab8"
 metafile = true
 
 [[files]]
@@ -179,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ac15d0873dd1f711e886f07f463b2bd9912940a344ef4dd4219aa456ba4760e4"
+hash = "a94078a8e2634443b5b1ead28e2b2e47ab431bfe9ce3f6fc883d4a37a11cd5f6"
 metafile = true
 
 [[files]]
@@ -189,17 +194,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f2d2dd0de19a6b32d96c89edf875f1c40c2b949be575a5b82ce2da58750c2190"
+hash = "b55511b63c3a96312211d26b75574d0d420035b0f30eedb40e3e12b1f42cb0a0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "275a1ecb11bde12b8c4c713b533230c75bc47bcffc590c5299287263d828c9b3"
+hash = "12fe61275734cf8d2554d5f92af20ccb22479118b36a9a56a275ad3f4b1e13fb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -209,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
+hash = "646a03dd78fcad34dd93fbbdc09d64010dc0f04fcec42927f229ecf448cf1832"
 metafile = true
 
 [[files]]
@@ -229,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "4e188302d675b528e65c0dab175fddb27003354b8c2daaf757bd6fde3cb6b240"
+hash = "3e7b496b10416fedc3a11de53d70e992f2f9f3acefb44e1bfe57bbc84c5fe583"
 metafile = true
 
 [[files]]
@@ -274,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c0c0d6ca3bb068a7b94fc2a849fb334b11cc92dbd5964061d1307c11df073720"
+hash = "6c3cd3014fb608f3905fc642b455fdd10f790bf6d72e7dd22c1525313ea682ff"
 metafile = true
 
 [[files]]
@@ -338,13 +343,8 @@ hash = "ce5d42529ee247ac041a901de56b2b017c202662d99d6ead3e50b7c9e57f5131"
 metafile = true
 
 [[files]]
-file = "mods/norefreshscroll.pw.toml"
-hash = "6d583bf73720618da89e0a25599ab6f04e2fd889a9df77650c3b7fefeaa9d3ea"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3df2b58ab8b9b0fd8743d0be43763f0563260429448d8db0a735b57156737b1e"
+hash = "eb48d187a04408b0b6a7959e2e070e4c6730f049a57bf62137a6f657b55caf0e"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
+hash = "fb3c7d111d903d281119cb66dcfd6e773f9b9a6a8e08d0796d7ee2b8162f6f71"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "6e6d211a726a79c4e9ce7a82ced3c06fd61d19a5c4a583531388962930e835fd"
+hash = "8189cc06f26418fcfccf93321213b82be3f080f31471adf5341b56cac99c6bc0"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "09a90457d22e51bd4612635639184596dc87ffa52a4900139d33ccb09a31b26b"
+hash = "db7ed475ed0ff75614a68bc62071d90197a532270d3863466bdef4ce9900911e"
 metafile = true
 
 [[files]]
