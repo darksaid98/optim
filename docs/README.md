@@ -45,10 +45,7 @@ Optim is a Fabric modpack that aims to provide maximum performance with some com
     <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/darksaid98/optim/total?style=for-the-badge&logo=github&logoColor=white&labelColor=141417">
 </a>
 <a href="https://modrinth.com/modpack/optim">
-    <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/essentialsx?style=for-the-badge&logo=modrinth&logoColor=white&label=MODRINTH&labelColor=141417">
-</a>
-<a href="https://www.curseforge.com/minecraft/modpacks/optim">
-    <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/93271?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&labelColor=141417">
+    <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/optim?style=for-the-badge&logo=modrinth&logoColor=white&label=MODRINTH&labelColor=141417">
 </a>
 
 Stable releases can be downloaded from the platforms linked above.
