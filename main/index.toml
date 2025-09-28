@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "515242951a767e965d9f7589da4202202480d3d5a834ff133900f2f586afa916"
+hash = "77275b7ea13ad85567db5dfc2ed7e77ce7f1730d50641a33e41320e6030f424b"
 metafile = true
 
 [[files]]
@@ -329,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
+metafile = true
+
+[[files]]
+file = "mods/norefreshscroll.pw.toml"
+hash = "aa9e6a7282fb7208d6c4e32e8b2d2be29ea342dee18bd69788388e70565fc5b4"
 metafile = true
 
 [[files]]
@@ -398,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "1e49559c88355148f1f8eabc43cd974b385a28b03205978869ce69a2eb7ed084"
+hash = "5c0923600d08edff1f15ec69c4ab5b2cd96c69024483fa6793147f94ded98315"
 metafile = true
 
 [[files]]
@@ -413,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "fe112716d0da39a5f27510f6e722c2b3cea58dca84bf08f69d3f50d4e6bab839"
+hash = "e3bf85b01d699aa30929f63f0f6cb90ec46ac443e244ba4bf704f92b3c9a0dbf"
 metafile = true
 
 [[files]]
