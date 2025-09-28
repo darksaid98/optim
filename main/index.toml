@@ -207,6 +207,11 @@ hash = "261db391d481e1cd61c0c973d280fa3147e17355ec71589f9f5217b4c3744ac8"
 metafile = true
 
 [[files]]
+file = "mods/fadeless.pw.toml"
+hash = "6f9f3cf618b3a8e7c121047a8ef30fb3826778278a4b72f5b6b7308154b30649"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "646a03dd78fcad34dd93fbbdc09d64010dc0f04fcec42927f229ecf448cf1832"
 metafile = true
