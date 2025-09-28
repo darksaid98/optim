@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "1c0e36f3124939575589c950dbdeed152cd3541e125562199aa6783af482aa50"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "ef5ad04ddf4f81608b4efe290566555a70124d1bda3fc0e230854fbde1dcebd8"
 
@@ -19,6 +23,10 @@ hash = "907892e5b78dc879fc92415104e755844ebad9e30229c60bc55fa744128d4284"
 [[files]]
 file = "config/yosbr/config/freecam.json5"
 hash = "8f700c032a3bbd6c411a9ff942766b93c29f8c42df14f7f3ee888448a9fdabaf"
+
+[[files]]
+file = "config/yosbr/config/ias.json"
+hash = "6b1c783de370977eb7fc9a99b032c3f30bc0ced4459bfa357743753a1c4aae92"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
