@@ -116,7 +116,7 @@ jobs:
           release-name: ${{ github.ref_name }}
           mention-authors: true
           mention-new-contributors: true
-          include-compare-link: false
+          include-compare-link: true
           include-pr-links: true
           include-commit-links: true
           semver: true
