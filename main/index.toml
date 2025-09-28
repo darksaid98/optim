@@ -337,6 +337,11 @@ hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
+metafile = true
+
+[[files]]
 file = "mods/norefreshscroll.pw.toml"
 hash = "aa9e6a7282fb7208d6c4e32e8b2d2be29ea342dee18bd69788388e70565fc5b4"
 metafile = true
