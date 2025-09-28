@@ -252,6 +252,11 @@ hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
 metafile = true
 
 [[files]]
+file = "mods/in-game-account-switcher.pw.toml"
+hash = "c0b400e44a305fbae34026745903d3b9dea695c7c5577fa22bed865c6225699e"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
