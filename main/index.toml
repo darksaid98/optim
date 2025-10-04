@@ -420,6 +420,11 @@ hash = "bcaa1650a5c5cb79e1063ba3d5bd5bf0ab3d78b8e0199e217a42617f8225a8cc"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "75450d4d7139edebd35377d96e7267c777d53faf9f11d46f48c10044308336b0"
+metafile = true
+
+[[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "7a699b00b3431d3ea33100b60230df6bb322b6ef7079d1295eb83053b138f312"
 metafile = true
