@@ -78,7 +78,7 @@ jobs:
 
       # Upload artifacts of release files
       - name: Upload Release Artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: Modpack-Release
           path: |
