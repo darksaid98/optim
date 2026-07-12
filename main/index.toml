@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6aa10fc79473438fdb09361c93e4e6f13a9118ec571953950bb0c859e300b8ed"
+hash = "818bb03e8ed95f4dea6da149278baab400f7452d3ad2d05fda45441bf1258785"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cab10ce7de1bd313d5dc6753f402f1123ff7571373ef185675c862e7cbf4369e"
+hash = "3dda058a34855fad435a3882adc0af253b5a3e0212349ab882bddc7155d34c86"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
+hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
 metafile = true
 
 [[files]]
@@ -264,12 +264,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
+hash = "41c95eea2813a8fe923ef8033f084cb264c610f549c97bb58db64734c9703c0c"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "96d39848ce238ca052b4afc72be0209b51fe1f8fa4e8c0fb71bab67c5378c840"
+hash = "11820482c3ecc8b820a1761caaf34915d050053ddaa739b5ccf8d8d7672f6013"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "b9007e78250c270d253eac2251de00af3408a05f5d04d1b79bb6a7e1c355b2cd"
+hash = "2ab016778787b807a892102b00286346b72cb950d52a63095ce59be63177ce0c"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
+hash = "137f9f7268efee46f378498be772d7828ac77ba239294c7051a782c9f0ee56ae"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "1ad1178e4b1ae91a2cda6b11ca2c2cace4fedc97914b1a0083ae0c21cb75b16e"
+hash = "104a7f0e9ec01aa618a2fb5550c67639a106b04fb998e303a9bdeea54dad57e9"
 metafile = true
 
 [[files]]
@@ -399,12 +399,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "546965f1ab52fc464c51e36c52305fef231837c22454d22447b8423e379502cd"
+hash = "76f0c3b0f97c781fab964ec383b5031d780814e63abe7c456354187deaafaae2"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+hash = "c75f5e9a285cf6195065ba85e73081990f990de6efc7e2262a6eafe12d3dc277"
 metafile = true
 
 [[files]]
