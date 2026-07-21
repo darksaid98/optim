@@ -95,7 +95,7 @@ jobs:
 
       # Generate changelog
       - name: Generate changelog
-        uses: ardalanamini/auto-changelog@v4
+        uses: ardalanamini/auto-changelog@v5
         id: changelog
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
