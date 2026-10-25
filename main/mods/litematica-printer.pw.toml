@@ -1,13 +1,13 @@
 name = "Litematica Printer"
-filename = "litematica-printer-26.2-3.2.2.jar"
+filename = "litematica-printer-26.3-3.2.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3llatzyE/versions/7l7ihnI0/litematica-printer-26.2-3.2.2.jar"
+url = "https://cdn.modrinth.com/data/3llatzyE/versions/gnQ8CGTG/litematica-printer-26.3-3.2.3.jar"
 hash-format = "sha512"
-hash = "87d9f327ea0a20e16c1852a32a5aa4a588719f94c1fd7f31e10c1aa7fb49237e9099f3b2802141e705809479e69d6d1915ea30fa2839be846e2bc775fd29b3b6"
+hash = "cb93b7164e1229df4b0d262f984354a4c956a41967c6a0327318f5634dd9ed31e643320fa3e993e1d42cfac1d0e091a9fa7eb2f5842f7b7bf399f719a65795ba"
 
 [update]
 [update.modrinth]
 mod-id = "3llatzyE"
-version = "7l7ihnI0"
+version = "gnQ8CGTG"
