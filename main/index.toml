@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "17611711e838c82f601feffafc16f4e1e94762f470be8c4bcc02183d5e611314"
+hash = "b6476f8c07b48528018d237e0f5c916e7aeb6dafc94a99d09fe3ac2332c03da8"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3b4bfcf9924e7a4c267199aa982130198bef1d4de293d7c69961d5e8823469a2"
+hash = "ceed3907704f3478bda90a96f62e642fa6e2b0817ae6ba5d93cf0ca91d636342"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
+hash = "b44f3ab71e52f1aaae97cf8644f2316042de8b7777d6b6794567c8c7d220bd2b"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6859959461c25d035a508bd97e4ea9ddcc8241e37f1ea92e3b4d920f601913a4"
+hash = "a0fefd25252e1dfac7da103d64436b9d7579b5cf404fd664139c4db079f40897"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "d60f63dffcf68f88d6abb0fabd2ba7246831929a41c1179744912d03e3ba28d3"
+hash = "353e7e6605f04764a8fc7f18d7e1833ffd23301f23509a85482654f467fb696f"
 metafile = true
 
 [[files]]
@@ -360,17 +360,17 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "09a3cbd9b748dc526811dc767f30ed9c9ef4cdde7d802a699532b5dbce8802d3"
+hash = "2243cbaee21e4acb7310648830ff0524aa7e3ead0f7f89e1e54869b4ef12cc16"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "3175d0982a41d2137eb446b5e62daf504ff3d39a3638c0599aa2785dc75e8f52"
+hash = "924abe6b07edaab03b952cfdc174385d7b8b4644ee5269b1ea84e8826939ee3c"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6e8ad3605e2c183ba21142f061f14d5b8257b4c081f37063ce36950de1bdbdb8"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "69d683554d0db2dc59ce9ed08b28743ddb56d9ea12b80e52e43051d082987bd2"
+hash = "56bb32f1d8f7148d559b15806185b69023a7b04d228ed6143a54601ee5e57279"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "cf295e2cbd3e5883df610374a30e7f15b57d78b8aa6017c46c9b88bdbfd98268"
+hash = "047a712ed735a1232e6740bd7e0035e0e3923a6791509e1961c6869a3a475c8e"
 metafile = true
 
 [[files]]
